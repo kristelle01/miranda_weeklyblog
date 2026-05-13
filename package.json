@@ -16,7 +16,7 @@
     "react-scripts": "5.0.1"
   },
   "engines": {
-    "node": "25.x"
+    "node": "24.x"
   },
   "browserslist": {
     "production": [
