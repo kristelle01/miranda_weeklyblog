@@ -24,7 +24,7 @@ const Footer = () => {
           <div className="social-links">
             <a href="#" aria-label="Twitter">𝕏</a>
             <a href="#" aria-label="LinkedIn">in</a>
-            <a href="#" aria-label="GitHub">⌘</a>
+            <a href="https://github.com/kristelle01" aria-label="GitHub">⌘</a>
           </div>
         </div>
       </div>
