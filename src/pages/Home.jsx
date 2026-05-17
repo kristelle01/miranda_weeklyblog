@@ -13,7 +13,7 @@ const Home = () => {
         <div className="hero-container">
           <div className="hero-image">
             <img 
-              src={`${process.env.PUBLIC_URL}/images/hero1.jpg`} 
+              src={`${process.env.PUBLIC_URL}/images/hero1.JPG`} 
               alt="Weekly Journey - Personal Growth" 
               onError={(e) => e.target.style.display='none'}
             />
