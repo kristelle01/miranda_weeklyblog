@@ -43,7 +43,7 @@ My tasks were primarily clerical, including organizing documents, arranging file
   week5: {
     title: "Building Efficiency Through Proper Documentation",
     date: "Week 5 — RECORD KEEPING",
-    images: ["W5.jpg", "W10.jpg", "W11.jpg"],
+    images: ["W5.jpg", "5w.jpg", "5ww.jpg"],
     content: `
       <p>During the fifth week, I assisted the staff in organizing and maintaining office documents. I helped arrange files, prepare documents for printing, and ensure that records were properly stored and labeled for easy retrieval.</p>
       <p>This experience helped me understand the importance of organized documentation in supporting smooth office operations. It also improved my attention to detail and strengthened my ability to manage tasks efficiently in a workplace setting.</p>
@@ -52,7 +52,7 @@ My tasks were primarily clerical, including organizing documents, arranging file
   week6: {
     title: "Keeping Information Accurate and Organized",
     date: "Week 6 — RECORD MAINTENANCE",
-    images: ["W6.jpg", "W10.jpg", "W11.jpg"],
+    images: ["W6.jpg", "6w.jpg", "6ww.jpg"],
     content: `
       <p>This week, I reviewed existing documents and helped update records to ensure that all information was accurate and properly maintained. I also organized both digital and physical files by sorting documents, renaming files, and placing them in their appropriate folders.</p>
       <p>Through these tasks, I learned the importance of maintaining updated and well-organized records in an office environment. This experience also improved my file management skills and taught me how proper organization contributes to efficiency and smoother workflow in the workplace.</p>
@@ -61,7 +61,7 @@ My tasks were primarily clerical, including organizing documents, arranging file
   week7: {
     title: "Closing One Chapter, Beginning Another",
     date: "Week 7 — TRANSITION",
-    images: ["W7.jpg", "W10.jpg", "W11.jpg"],
+    images: ["W7.jpg", "7w.jpg", "7ww.jpg"],
     content: `
       <p>During this week, it was my last week in the Administrative Office because I was transferred to the Dean's Office. During my remaining days, I continued organizing both digital and physical records. I helped sort documents, rename files, and place them in their appropriate folders.</p>
       <p>This experience helped me improve my organizational and file management skills. It also taught me the importance of keeping records properly arranged to maintain an efficient workflow in the office.</p>
@@ -70,7 +70,7 @@ My tasks were primarily clerical, including organizing documents, arranging file
   week8: {
     title: "Adjusting to a New Environment",
     date: "Week 8 — NEW BEGINNINGS",
-    images: ["W8.jpg", "8w.png", "W11.jpg"],
+    images: ["W8.jpg", "8w.png"],
     content: `
       <p>During this week, it was my first week in the Dean's Office. The first thing Sir Dan did was orient me about the history of the Graduate School and the departments under its supervision. He also introduced me to their official website and explained its purpose and functions. In addition, he oriented me about the tasks I would be doing in the following weeks and discussed the expected final output of my internship.</p>
       <p>During this week, I also started creating the layout and design for a program invitation. I can say that it was challenging because I am not very creative when it comes to designing, but I still tried my best. I considered this task as a good opportunity to practice and improve my creativity and layout skills.</p>
